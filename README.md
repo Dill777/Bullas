@@ -21,11 +21,15 @@ Ensure the following files are in the same directory:
 2. **Create wallets.txt with list of addresses or PrivateKeys**
 
 3. **Launch script**
-   a) If addresses:
+
+    a) If addresses:
+
     ```bash
     node checker.js
     ```
+
     b) If PKs:
+
     ```bash
     node checkerPK.js
     ```
